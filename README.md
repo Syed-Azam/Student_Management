@@ -4,7 +4,7 @@
 ## **New Project Assignment**
 ## **Student Management System**
 
-### Project Files
+### Project Description
 
 | *Student Management System* |
 | --------------------------- |
