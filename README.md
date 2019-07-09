@@ -2,7 +2,8 @@
 **Presidential Initiative for Artificial Intelligence and Computing**
 
 ## **New Project Assignment**
-## **Student Management System**
+## **Student Management System - Version 1 - Using Dictionary **
+## **Student Management System - Version 2 - Using CSV **
 
 ### Project Description
 
