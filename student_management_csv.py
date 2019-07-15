@@ -81,14 +81,14 @@ while True:
         continue
     elif option == '4':
         print("    Student Print Menu")
-        line(74)
+        print("╔═══════════╤════╤══════════════════╤═════════════════════════════════════════╗")
+        print("║ Name      │ Age│Father            │Address                                  ║")
+        print("╟───────────┼────┼──────────────────┼─────────────────────────────────────────╢")
         with open("students.csv") as s:
             s = csv.reader(s)
-            print("Name      Age   Father             Address")
-            line(74)
             for ln in s:
-                print(pad(ln[0], 10)+pad(ln[1], 6)+pad(ln[2], 19)+pad(ln[3],44))
-            line(74)
+                print('║ '+pad(ln[0], 10)+'│ '+pad(ln[1], 3)+'│'+pad(ln[2], 18)+'│'+pad(ln[3],41)+'║')
+            print("╚═══════════╧════╧══════════════════╧═════════════════════════════════════════╝")
         input()
         continue
     elif option == '5':
