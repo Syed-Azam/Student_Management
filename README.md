@@ -1,4 +1,5 @@
-![Picture](https://i.ibb.co/jH9TFG5/Logo-PIAIC-fb7de414.png)
+![Picture](https://i.ibb.co/hXgdc3h/sms2.jpg)
+
 **Presidential Initiative for Artificial Intelligence and Computing**
 
 ## **New Project Assignment**
